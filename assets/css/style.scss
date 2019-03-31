@@ -10,4 +10,13 @@ header {
 h1, h2, p {
   color: white;
   text-align: center;
+  font-family: "courier new", serif;
+}
+
+h1.link {
+  color: blue
+}
+
+h1.visited {
+  color: rgb(128,0,128);
 }
