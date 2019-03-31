@@ -1,6 +1,4 @@
-<p style="text-align: center;">
-# Data Glass UK
-</p>
+# <p style="text-align: center;">Data Glass UK</p>
 
 
-## Coming Soon
+## <p style="text-align: center;">Coming Soon</p>
