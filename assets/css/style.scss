@@ -3,7 +3,13 @@
 
 @import "{{ site.theme }}";
 
-display: inline;
+.text {
+  display: inline;
+}
+
+p.dashed {
+  border-style: dashed;
+}
 
 body {
   background-color: rgb(211,211,211);
