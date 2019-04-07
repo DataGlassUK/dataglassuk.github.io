@@ -1,16 +1,21 @@
-<!DOCTYPE html>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <title>Data Glass</title>
-<html lang="{{ site.lang | default: "en-GB" }}">
-  <title>Data Glass</title>
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style scoped lang="scss">
-       @import './assets/css/style.scss';
-    </style>
-  </head>
-</html>
+<head>
+<style>
+.flex-container {
+       display: flex;
+       background-color: rgb(180,180,180);
+       justify-content: space-around;
+       align-self: center;
+     }
+.flex-container > div {
+       background-color: rgb(250,250,250);
+       margin: 10px;
+       padding: 10px;
+       font-size: 16px;
+     }
+</style>
+</head>
 <div class="flex-container">
    <div><img src="./images/dg_teal.png"></div>
    <div><img src="./images/dg_mono.png"></div>
