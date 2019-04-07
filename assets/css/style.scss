@@ -25,7 +25,6 @@ header {
 
 h1, h2, p, a {
   color: black;
-  text-align: center;
   font-family: "courier new", serif;
 }
 
@@ -35,12 +34,15 @@ a.link {
 
 h1.link {
   color: blue
+  font-family: "courier new", serif;
 }
 
 a.visited {
   color: rgb(128,0,128);
+  font-family: "courier new", serif;
 }
 
 h1.visited {
   color: rgb(128,0,128);
+  font-family: "courier new", serif;
 }
