@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+html *
+{
+   font-size: 1em !important;
+   color: black !important;
+   font-family: Courier New !important;
+}
+
 .text {
   display: inline;
 }
